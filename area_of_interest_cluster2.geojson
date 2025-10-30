@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "area_of_interest_cluster2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32756" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 153.38407360498158, -28.016272727690001 ], [ 153.38407360498158, -27.923648146693605 ], [ 153.488432556571496, -27.923648146693605 ], [ 153.488432556571496, -28.016272727690001 ], [ 153.38407360498158, -28.016272727690001 ] ] ] } }
+]
+}
